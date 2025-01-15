@@ -29,4 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cloudsify&show_icons=true&locale=en" alt="cloudsify" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudsify&" alt="cloudsify" /></p>
