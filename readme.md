@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **[NULL]**
 
-- 👨‍💻 All of my projects are available at [knvtva.dev](knvtva.dev)
-
 - 💬 Ask me about **Anything, Feel free to get in contact!**
 
 - 📫 How to reach me **knvtva@knvtva.dev**
