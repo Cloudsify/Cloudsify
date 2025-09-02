@@ -3,17 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/_Cloudsify" target="blank"><img src="https://img.shields.io/twitter/follow/cloudsify?logo=twitter&style=for-the-badge" alt="cloudsify" /></a> </p>
 
-- 🔭 I’m currently working on **[NULL]**
+- 🔭 I’m currently working on **SourMC**
 
-- 🌱 I’m currently learning **[NULL]**
+- 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **[NULL]**
-
-- 🤝 I’m looking for help with **[NULL]**
-
-- 💬 Ask me about **Anything, Feel free to get in contact!**
-
-- 📫 How to reach me **knvtva@knvtva.dev**
+- 📫 How to reach me **cloudsify@cloudsify.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
